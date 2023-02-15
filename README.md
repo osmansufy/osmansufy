@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 My Facebook Profile:https://www.facebook.com/osmansufy/
-My LinkIn Profile:https://www.linkedin.com/in/osman-goni-424899163/
+My LinkIn Profile:https://www.linkedin.com/in/osmansufy/
 
 <!---
 osmansufy/osmansufy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
